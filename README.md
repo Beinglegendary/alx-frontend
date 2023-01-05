@@ -1,4 +1,4 @@
-# Alx/Holberton school Advanced Html 
+# Alx/Holberton School Advanced Html 
 
 ### Hi everyone!
 
