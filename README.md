@@ -27,4 +27,4 @@ Overall, I feel much more confident in my HTML skills now that I've completed th
 * Working with APIs to retrieve and display data on a webpage
 * Advanced JavaScript techniques for manipulating the DOM and creating interactive elements
 * Working with libraries and frameworks such as jQuery, python, or React to build more complex web applications
-* Advanced techniques for optimizing and performance of a webpage.
+* Advanced techniques for optimizing the performance of a webpage.
