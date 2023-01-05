@@ -1,8 +1,8 @@
-# Alx/Holberton School Advanced Html 
+# Alx/Holberton Software Engineering  School Advanced Html 
 
 ### Hi everyone!
 
-I recently completed an Advanced HTML course, and I wanted to share what I learned with you all.
+I recently completed an Advanced HTML course with Alx/Holberton, and I wanted to share what I learned with you all.
 
 In this course, I learned about semantic HTML tags, which are tags that provide meaning to the content on a webpage. For example, the <header> tag indicates that the content inside it is the header of a webpage, while the <footer> tag indicates that the content inside it is the footer of a webpage.
 
