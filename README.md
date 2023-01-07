@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # alx-frontend
 Contains the projects I worked on for my front-end specialization sprint in the alx-Software engineering program
 
@@ -34,4 +34,4 @@ Overall, I feel much more confident in my HTML skills now that I've completed th
 * Advanced JavaScript techniques for manipulating the DOM and creating interactive elements
 * Working with libraries and frameworks such as jQuery, python, or React to build more complex web applications
 * Advanced techniques for optimizing the performance of a webpage.
->>>>>>> 02744d917db7be5245e103f0dbce8b1bbae7c6e4
+
