@@ -10,7 +10,7 @@ Contains the projects I worked on for my front-end specialization sprint in the 
 
 I recently completed an Advanced HTML course with Alx/Holberton, and I wanted to share what I learned with you all.
 
-In this course, I learned about semantic HTML tags, which are tags that provide meaning to the content on a webpage. For example, the <header> tag indicates that the content inside it is the header of a webpage, while the <footer> tag indicates that the content inside it is the footer of a webpage.
+In this sprint, I learned about semantic HTML tags, which are tags that provide meaning to the content on a webpage. For example, the <header> tag indicates that the content inside it is the header of a webpage, while the <footer> tag indicates that the content inside it is the footer of a webpage.
 
 I also learned about HTML5 structural elements, which are new tags introduced in HTML5 that help to define the structure of a webpage. These include tags such as <header>, <footer>, <main>, and <article>.
 
