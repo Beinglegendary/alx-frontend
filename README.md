@@ -4,6 +4,8 @@ Contains the projects I worked on for my front-end specialization sprint in the 
 
 - [0x00. Advanced HTML](./0x00-html_advanced/)
 =======
+- [0x01. Developers Tools](./0x01-developer_tools/)
+=======
 # Alx/Holberton Software Engineering  School Advanced Html 
 
 ### Hi everyone!
