@@ -6,6 +6,10 @@ Contains the projects I worked on for my front-end specialization sprint in the 
 =======
 - [0x01. Developers Tools](./0x01-developer_tools/)
 =======
+- [0x02. Advanced Css](./0x02-CSS_advanced/)
+=======
+- [0x03. Responsive Design](./0x02-responsive_design/)
+=======
 # Alx/Holberton Software Engineering  School Advanced Html 
 
 ### Hi everyone!
